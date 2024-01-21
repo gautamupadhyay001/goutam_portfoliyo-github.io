@@ -57,7 +57,8 @@ html {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  background-image: url("/portfoliyo/img/night-illustration-with-full-moon-stars_104785-352.avif");
+  /* work on bg make liqude grind display  */
+  background-image: url(/Black\ Minimalist\ I\ Allow\ Transformation\ Desktop\ Wallpaper.png");
   background-size: cover;
   color: white;
   height: 100vh;
@@ -357,6 +358,7 @@ html {
 
 .social i:hover{
   cursor: pointer;
+  color: aqua;
 }
 
 @media (max-width: 768px){
